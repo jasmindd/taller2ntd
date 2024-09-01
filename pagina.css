@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
+.articulo-titulo {
+    color: #4bff33; /* Cambia este valor por el color que prefieras */
+}
+
 
 header img {
     max-width: 100%;
