@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+section {
+    padding: 20px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+p, ul {
+    color: #666;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
