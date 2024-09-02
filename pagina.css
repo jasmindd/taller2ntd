@@ -3,6 +3,8 @@ body {
     background-color: #f4f4f4;
 }
 
+
+
 header img {
     max-width: 100%;
     height: auto;
@@ -26,6 +28,12 @@ ul {
     margin-left: 20px;
 }
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 2e60d21df046e0de1a4ea4d439f34d8be0310903
 table {
     width: 100%;
     border-collapse: collapse;
@@ -50,11 +58,15 @@ tbody tr:nth-child(even) {
 tbody tr:hover {
     background-color: #ddd;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2e60d21df046e0de1a4ea4d439f34d8be0310903
 .img-ajustada {
     display: block;
     margin-left: auto;
     margin-right: auto;
+<<<<<<< HEAD
     max-width: 100%;
     width: 500px; /* ancho fijo para todas las imágenes */
     height: auto;
@@ -67,3 +79,9 @@ iframe {
     margin-right: auto;
 }
 
+=======
+    max-width: 50%; 
+    height: auto;
+    border-radius: 5px; 
+}
+>>>>>>> 2e60d21df046e0de1a4ea4d439f34d8be0310903
